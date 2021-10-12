@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="LimitSortIII:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/LimitSortIII_jar</output-path>
+    <root id="archive" name="LimitSortIII.jar">
+      <element id="module-output" name="LimitSortIII" />
+    </root>
+  </artifact>
+</component>
